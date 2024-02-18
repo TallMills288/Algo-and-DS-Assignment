@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dowmi\\source\\repos\\Algo and DS Assignment 1\\",
+  "WorkspaceRootPath": "C:\\Users\\dowmi\\Documents\\Repos\\Algo-and-DS-Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C31D02-B03B-420D-A45B-A26EB729E017}|Algo and DS Assignment 1\\Algo and DS Assignment 1.vcxproj|C:\\Users\\dowmi\\source\\repos\\Algo and DS Assignment 1\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{38C31D02-B03B-420D-A45B-A26EB729E017}|Algo and DS Assignment 1\\Algo and DS Assignment 1.vcxproj|C:\\Users\\dowmi\\Documents\\Repos\\Algo-and-DS-Assignment\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{38C31D02-B03B-420D-A45B-A26EB729E017}|Algo and DS Assignment 1\\Algo and DS Assignment 1.vcxproj|solutionrelative:Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Algo and DS Assignment 1.cpp",
-              "DocumentMoniker": "C:\\Users\\dowmi\\source\\repos\\Algo and DS Assignment 1\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
+              "DocumentMoniker": "C:\\Users\\dowmi\\Documents\\Repos\\Algo-and-DS-Assignment\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
               "RelativeDocumentMoniker": "Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
-              "ToolTip": "C:\\Users\\dowmi\\source\\repos\\Algo and DS Assignment 1\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
+              "ToolTip": "C:\\Users\\dowmi\\Documents\\Repos\\Algo-and-DS-Assignment\\Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
               "RelativeToolTip": "Algo and DS Assignment 1\\Algo and DS Assignment 1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-17T21:31:05.932Z",
               "EditorCaption": ""
